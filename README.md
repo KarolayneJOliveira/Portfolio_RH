@@ -1,12 +1,12 @@
 ## Dashboard Recursos Humano
 <img align="right" width="500" height="320" src="https://github.com/user-attachments/assets/26cf9e94-b4a0-4bb4-adda-5a7469fa00a6">
 Projeto de dashboard devolvido com Power BI para identificar os principais fatores que impactam as vendas da empresa Contoso, permitindo análises dinâmicas e de fácil compartilhamento com os responsáveis pela tomada de decisão.
-Principais problemas relatados pelo requisitante: 
-- Dificuldade de exportar os dados do sistema atual e manipular as informações em planilhas, macros e tabelas dinâmicas.
-- Segmentar dados  por filiais, categorias, produtos e períodos de tempo de uma forma simples, dinâmica e fácil de compartilhar.
+Principais problemas relatados pelo requisitante:<br>
+- Dificuldade de exportar os dados do sistema atual e manipular as informações em planilhas, macros e tabelas dinâmicas.<br>
+- Segmentar dados  por filiais, categorias, produtos e períodos de tempo de uma forma simples, dinâmica e fácil de compartilhar.<br>
 - Medir a performance comparando períodos de tempo (YoY, YTD, MoM, MTD).
 <br>
-<a href="https://app.powerbi.com/view?r=eyJrIjoiMWJiY2QzMmYtNjdkOS00ODg3LTgzM2MtMTlkZWJjZWVmM2EzIiwidCI6IjQxNGU0N2Q2LTVhNGUtNDkzZS05OWJkLTUzMTYwZjJhYWY2ZiJ9" target="_blank">Clique aqui</a> e acesse o a solução desenvolvida para o cliente.
+<a href="" target="_blank">Clique aqui</a> e acesse o a solução desenvolvida para o cliente.
 <br>
 <a href="https://github.com/KarolayneJOliveira/Portfolio_RH" target="_blank">Clique aqui</a> e acesse o repositório no Github.
 
