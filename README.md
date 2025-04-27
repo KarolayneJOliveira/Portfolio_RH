@@ -1,5 +1,5 @@
 ## Dashboard Recursos Humano
-<img align="right" width="500" height="320" src="https://github.com/BruceFonseca/Portfolio/blob/main/projetos/contoso%2001.png?raw=true">
+<img align="right" width="500" height="320" src="https://github.com/user-attachments/assets/26cf9e94-b4a0-4bb4-adda-5a7469fa00a6">
 Projeto de dashboard devolvido com Power BI para identificar os principais fatores que impactam as vendas da empresa Contoso, permitindo análises dinâmicas e de fácil compartilhamento com os responsáveis pela tomada de decisão.
 Principais problemas relatados pelo requisitante: 
 - Dificuldade de exportar os dados do sistema atual e manipular as informações em planilhas, macros e tabelas dinâmicas.
@@ -14,7 +14,7 @@ Principais problemas relatados pelo requisitante:
 <br><br>
 
 ## Modelo e fonte de dados 
-<img align="left" width="500" height="320" src="https://github.com/BruceFonseca/Portfolio/blob/main/projetos/Captura%20de%20tela%202023-08-23%20202755.png?raw=true">
+<img align="left" width="500" height="320" src="https://github.com/user-attachments/assets/cb50205f-adb9-48d8-953f-16fb777b13bc">
 Após conversa com a equipe glogal de tecnogia da informação do cliente, fomos informados de um existente data warehouse, contendo todas informações necessárias. Evitando assim a necessidade de importar dados de outras fontes como planilhas, arquivos de textos ou raspagem de dados em sistemas web.
 
 Após conversa com a equipe glogal de tecnogia da informação do cliente, fomos informados de um existente data warehouse, contendo todas informações necessárias. Evitando assim a necessidade de importar dados de outras fontes como planilhas, arquivos de textos ou raspagem de dados em sistemas web.
@@ -34,6 +34,6 @@ Para organizar as medidas, criamos uma tabela contendo todas as medidas, sempre 
 
 ## Ferramentas e linguagens utilizadas
 <div style="display: inline_block">
-    <img align="center" alt="SQL" height="40" width="40" src="https://github.com/BruceFonseca/ferramentas/blob/main/logo.png?raw=true">
-    <img align="center" alt="Power BI" height="40" width="40" src="https://github.com/BruceFonseca/ferramentas/blob/main/1200px-New_Power_BI_Logo.svg.png?raw=true">
+    <img align="center" alt="SQL" height="40" width="40" src="https://github.com/KarolayneJOliveira/Portfolio/blob/main/linguagens/sql.png?raw=true">
+    <img align="center" alt="Power BI" height="40" width="40" src="https://github.com/KarolayneJOliveira/Portfolio/blob/main/linguagens/power%20bi.png?raw=true">
 </div>
