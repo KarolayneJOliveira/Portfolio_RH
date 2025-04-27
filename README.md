@@ -1,4 +1,4 @@
-## Dashboard Recursos Humano
+## Dashboard Recursos Humanos
 <img align="right" width="500" height="320" src="https://github.com/user-attachments/assets/26cf9e94-b4a0-4bb4-adda-5a7469fa00a6">
 Projeto de dashboard devolvido com Power BI para identificar os principais fatores que impactam as vendas da empresa Contoso, permitindo análises dinâmicas e de fácil compartilhamento com os responsáveis pela tomada de decisão.
 Principais problemas relatados pelo requisitante:<br>
@@ -30,7 +30,7 @@ Principais medidas desenvolvidas;
 Para organizar as medidas, criamos uma tabela contendo todas as medidas, sempre seguindo a padronização dos nomes.
 
 
-<br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br>
 
 ## Ferramentas e linguagens utilizadas
 <div style="display: inline_block">
