@@ -32,7 +32,7 @@ Após conversa com a equipe glogal de tecnogia da informação do cliente, fomos
 
 
 ## Medidas
-<img align="left" width="500" height="320" src="https://github.com/BruceFonseca/Portfolio/blob/main/projetos/Captura%20de%20tela%202023-08-23%20214725.png?raw=true">
+<img align="left" width="500" height="320" src="https://github.com/KarolayneJOliveira/Portfolio_RH/blob/main/Design/Medidas.png?raw=true">
 Identificado a necessidade do cliente, as regras de negócio e a aplicação das mesmas no modelo de dados, iniciamos o desenvolvimento.
 Principais medidas desenvolvidas;
  - Custos, Receitas, Lucro, Entregas
