@@ -19,7 +19,7 @@ A performance dos colaboradores está diretamente ligada ao .
 
 Após conversa com a equipe glogal de tecnogia da informação do cliente, fomos informados de um existente data warehouse, contendo todas informações necessárias. Evitando assim a necessidade de importar dados de outras fontes como planilhas, arquivos de textos ou raspagem de dados em sistemas web.
 
-<br><br><br><br>
+<br><br><br><br><br><br><br>
 
 
 ## Fonte de dados 
@@ -42,7 +42,7 @@ Principais medidas desenvolvidas:<br>
  - A principal medida desenvolvida foi o Turnover ............<br>
 As medidas foram organizadas por meio de uma tabela contendo todos os cálculos, seguindo uma padronização dos nomes.
 
-<br><br><br><br><br><br>
+<br><br><br><br><br>
 
 ## Ferramentas e linguagens utilizadas
 <div style="display: inline_block">
