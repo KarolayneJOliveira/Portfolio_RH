@@ -10,19 +10,17 @@ Principais problemas relatados pelo cliente:<br>
 <br>
 <a href="https://github.com/KarolayneJOliveira/Portfolio_RH" target="_blank">Clique aqui</a> e acesse o repositório no Github.
 
-
 <br><br>
 
 ## Performance dos colaboradores
 <img align="left" width="500" height="320" src="https://github.com/user-attachments/assets/cb50205f-adb9-48d8-953f-16fb777b13bc">
-A performance dos colaboradores está diretamente ligada ao .....
+Na segunda parte apresenta    <br>
+O recrutamento  <br>
+A performance dos colaboradores está diretamente ligada ao .....   <br>
+A satisfação dos colaboradores         <br>
+O absenteísmo     <br> 
 
-
-<br><br><br><br><br><br><br><br><br><br><br><br>
-
-
-
-
+<br><br><br><br><br><br><br><br><br>
 
 ## Fonte de dados 
 <img align="right" width="500" height="320" src="https://github.com/KarolayneJOliveira/Portfolio_RH/blob/main/Design/Base%20de%20dados%20Excel.png?raw=true">
@@ -35,7 +33,6 @@ Após analisar as essas informações, foram identificados os principais pontos 
 
 <br><br>
 
-
 ## Medidas
 <img align="left" width="500" height="320" src="https://github.com/KarolayneJOliveira/Portfolio_RH/blob/main/Design/Medidas.png?raw=true">
 Logo após identificar a necessidade do cliente, iniciou-se o desenvolvimento das medidas utilizando a linguagem DAX, visando garantir agilidade e precisão nas análises.<br>
@@ -46,7 +43,7 @@ Principais medidas desenvolvidas:<br>
  
 As medidas implementadas proporcionaram resultados satisfatórios, auxiliando na tomada de decisões estratégicas e oferecendo recomendações valiosas para a melhoria contínua da empresa.
 
-<br><br>
+<br>
 
 ## Ferramentas e linguagens utilizadas
 <div style="display: inline_block">
