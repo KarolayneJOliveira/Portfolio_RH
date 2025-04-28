@@ -1,10 +1,10 @@
 ## Análise da rotatividade dos colaboradores
 <img align="right" width="500" height="320" src="https://github.com/user-attachments/assets/26cf9e94-b4a0-4bb4-adda-5a7469fa00a6">
-Projeto de dashboard desenvolvido com Power BI para identificar os principais fatores da rotatividade dos colaboradores, permitindo análises dinâmicas e de fácil entendimento através da visualização de gráficos.<br>
+Projeto de dashboard desenvolvido com Power BI para identificar os principais fatores da rotatividade dos colaboradores, proporcionando análises dinâmicas e de fácil compreensão por meio de visualizações gráficas.<br>
 Principais problemas relatados pelo cliente:<br>
-- Dificuldades na priorização das ações corretivas;<br>
-- Médio desempenho dos colaboradores;<br>
-- Alta taxa de absentísmo dos colaboradores.<br>
+- Dificuldades na priorização de ações corretivas;<br>
+- Desempenho mediano dos colaboradores;<br>
+- Alta taxa de absentísmo.<br>
 <br>
 <a href="" target="_blank">Clique aqui</a> e acesse o a solução desenvolvida para o cliente.
 <br>
@@ -26,25 +26,25 @@ A performance dos colaboradores está diretamente ligada ao .....
 
 ## Fonte de dados 
 <img align="right" width="500" height="320" src="https://github.com/KarolayneJOliveira/Portfolio_RH/blob/main/Design/Base%20de%20dados%20Excel.png?raw=true">
-A base de dados utilizada foi extraída do site da Kaggle, em formato .csv, contendo registros de uma empresa fictícia dos anos de 2006 a 2018, contemplando as seguintes informações:<br>
-- Contratações dos colaboradores ao longo dos anos;<br>
-- Demissões, cargos e base salarial;<br>
-- Fontes de recrutamento, desempenho, níveis de satisfação e absenteísmo.<br>
+A base de dados utilizada foi extraída do site da Kaggle, em formato .csv, contendo registros de uma empresa fictícia entre os anos de 2006 a 2018, contemplando as seguintes informações:<br>
+- Contratações realizadas ao longo dos anos;<br>
+- Demissões, cargos ocupados e estrutura salarial;<br>
+- Fontes de recrutamento, desempenho dos colaboradores, níveis de satisfação e índices de absenteísmo.<br>
 
-Após analisar essas informações foram definidos os principais pontos a serem desenvolvidos e definido quais as medidas que deveriam ser utilizadas para solucionar os problemas relatados pelo cliente. 
+Após analisar as essas informações, foram identificados os principais pontos a serem abordados e definida as métricas e medidas necessárias para solucionar os problemas relatados pelo cliente. 
 
 <br><br>
 
 
 ## Medidas
 <img align="left" width="500" height="320" src="https://github.com/KarolayneJOliveira/Portfolio_RH/blob/main/Design/Medidas.png?raw=true">
-Identificado a necessidade do cliente, iniciou o desenvolvimento das medidas através da linguagem DAX, para garantir agilidade e precisão nas análises.<br>
+Após identificar a necessidade do cliente, iniciou-se o desenvolvimento das medidas utilizando a linguagem DAX, visando garantir agilidade e precisão nas análises.<br>
 Principais medidas desenvolvidas:<br>
- - Contratações, demissões, absenteísmo, headcount/ativos e massa salarial;<br>
- - Índice de Turnover, utilizado para avaliar o nível de rotatividade;<br>
- - Medidas para comparações de performance e satisfação do colaborador.<br>
+ - Quantitativo de contratações, demissões, absenteísmo, headcount/ativos e massa salarial;<br>
+ - Cálculo do índice de Turnover, para avaliação do nível de rotatividade dos colaboradores;<br>
+ - Medidas comparativas de desempenho da performance e satisfação dos colaboradores.<br>
  
-As medidas desenvolvidas apresentaram resultados satisfatórios que auxiliaram nas tomadas de decisões, trazendo recomendações valiosas para a constante melhoria da empresa.
+As medidas implementadas proporcionaram resultados satisfatórios, auxiliando na tomada de decisões estratégicas e oferecendo recomendações valiosas para a melhoria contínua da empresa.
 
 <br><br><br>
 
