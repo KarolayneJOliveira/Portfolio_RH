@@ -46,7 +46,7 @@ Principais medidas desenvolvidas:<br>
  
 As medidas implementadas proporcionaram resultados satisfatórios, auxiliando na tomada de decisões estratégicas e oferecendo recomendações valiosas para a melhoria contínua da empresa.
 
-<br><br><br>
+<br><br>
 
 ## Ferramentas e linguagens utilizadas
 <div style="display: inline_block">
