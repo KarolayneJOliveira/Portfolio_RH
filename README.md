@@ -1,10 +1,10 @@
 ## Análise da rotatividade dos colaboradores
 <img align="right" width="500" height="320" src="https://github.com/user-attachments/assets/26cf9e94-b4a0-4bb4-adda-5a7469fa00a6">
-Projeto de dashboard devolvido com Power BI para identificar os principais fatores do turnover .............................................................................................................................................................................................. .<br>
+Projeto de dashboard desenvolvido com Power BI para identificar os principais fatores da rotatividade (turnover) dos colaboradores,    .<br>
 Principais problemas relatados pelo requisitante:<br>
-- Médio desempenho dos colaboradores.<br>
+- Dificuldades na priorização das ações corretivas;<br>
+- Médio desempenho dos colaboradores;<br>
 - Alta taxa de absentísmo dos colaboradores.<br>
-- Dificuldades na priorização das ações corretivas.
 <br>
 <a href="" target="_blank">Clique aqui</a> e acesse o a solução desenvolvida para o cliente.
 <br>
@@ -26,9 +26,10 @@ Após conversa com a equipe glogal de tecnogia da informação do cliente, fomos
 <img align="right" width="500" height="320" src="https://github.com/KarolayneJOliveira/Portfolio_RH/blob/main/Design/Base%20de%20dados%20Excel.png?raw=true">
 A base de dados utilizada foi extraída do site da Kaggle, em formato .csv, contendo registros de uma empresa fictícia dos anos de 2006 a 2018, contemplando as seguintes informações:<br>
 - Contratações dos colaboradores ao longo dos anos;<br>
-- Demissões, cargos, base salarial, fontes de recrutamento, desempenho, níveis de satisfação e absenteísmo;<br>
+- Demissões, cargos e base salarial;<br>
+- Fontes de recrutamento, desempenho, níveis de satisfação e absenteísmo.<br>
 
-Após conversa com a equipe glogal de tecnogia da informação do cliente, fomos informados de um existente data warehouse, contendo todas informações necessárias. Evitando assim a necessidade de importar dados de outras fontes como planilhas, arquivos de textos ou raspagem de dados em sistemas web.
+Após analisar essas informações foram definidos os principais pontos a serem desenvolvidos e definido quais as medidas que deveriam ser utilizadas para solucionar os problemas relatados pelo requisitante. 
 
 <br><br><br>
 
