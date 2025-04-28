@@ -1,6 +1,6 @@
 ## Análise da rotatividade dos colaboradores
 <img align="right" width="500" height="320" src="https://github.com/user-attachments/assets/26cf9e94-b4a0-4bb4-adda-5a7469fa00a6">
-Projeto de dashboard desenvolvido com Power BI para identificar os principais fatores da rotatividade (turnover) dos colaboradores,    .<br>
+Projeto de dashboard desenvolvido com Power BI para identificar os principais fatores da rotatividade dos colaboradores, permitindo análises dinâmicas e de fácil entendimento através da visualização de gráficos.<br>
 Principais problemas relatados pelo cliente:<br>
 - Dificuldades na priorização das ações corretivas;<br>
 - Médio desempenho dos colaboradores;<br>
@@ -15,11 +15,13 @@ Principais problemas relatados pelo cliente:<br>
 
 ## Performance dos colaboradores
 <img align="left" width="500" height="320" src="https://github.com/user-attachments/assets/cb50205f-adb9-48d8-953f-16fb777b13bc">
-A performance dos colaboradores está diretamente ligada ao .
+A performance dos colaboradores está diretamente ligada ao .....
 
-Após conversa com a equipe glogal de tecnogia da informação do cliente, fomos informados de um existente data warehouse, contendo todas informações necessárias. Evitando assim a necessidade de importar dados de outras fontes como planilhas, arquivos de textos ou raspagem de dados em sistemas web.
 
-<br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br>
+
+
+
 
 
 ## Fonte de dados 
@@ -29,9 +31,9 @@ A base de dados utilizada foi extraída do site da Kaggle, em formato .csv, cont
 - Demissões, cargos e base salarial;<br>
 - Fontes de recrutamento, desempenho, níveis de satisfação e absenteísmo.<br>
 
-Após analisar essas informações foram definidos os principais pontos a serem desenvolvidos e definido quais as medidas que deveriam ser utilizadas para solucionar os problemas relatados pelo requisitante. 
+Após analisar essas informações foram definidos os principais pontos a serem desenvolvidos e definido quais as medidas que deveriam ser utilizadas para solucionar os problemas relatados pelo cliente. 
 
-<br><br><br>
+<br><br>
 
 
 ## Medidas
@@ -44,7 +46,7 @@ Principais medidas desenvolvidas:<br>
  
 As medidas desenvolvidas apresentaram resultados satisfatórios que auxiliaram nas tomadas de decisões, trazendo recomendações valiosas para a constante melhoria da empresa.
 
-<br><br><br><br><br>
+<br><br><br>
 
 ## Ferramentas e linguagens utilizadas
 <div style="display: inline_block">
