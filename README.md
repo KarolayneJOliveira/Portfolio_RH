@@ -1,4 +1,4 @@
-## Dashboard Recursos Humanos
+## Análise da Rotatividade dos Colaboradores
 <img align="right" width="500" height="320" src="https://github.com/user-attachments/assets/26cf9e94-b4a0-4bb4-adda-5a7469fa00a6">
 Projeto de dashboard devolvido com Power BI para identificar os principais fatores que impactam as vendas da empresa Contoso, permitindo análises dinâmicas e de fácil compartilhamento com os responsáveis pela tomada de decisão.<br>
 Principais problemas relatados pelo requisitante:<br>
