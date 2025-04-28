@@ -1,10 +1,10 @@
-## Análise da Rotatividade dos Colaboradores
+## Análise da rotatividade dos colaboradores
 <img align="right" width="500" height="320" src="https://github.com/user-attachments/assets/26cf9e94-b4a0-4bb4-adda-5a7469fa00a6">
-Projeto de dashboard devolvido com Power BI para identificar os principais fatores que impactam as vendas da empresa Contoso, permitindo análises dinâmicas e de fácil compartilhamento com os responsáveis pela tomada de decisão.<br>
+Projeto de dashboard devolvido com Power BI para identificar os principais fatores do turnover .............................................................................................................................................................................................. .<br>
 Principais problemas relatados pelo requisitante:<br>
-- Dificuldade de exportar os dados do sistema atual e manipular as informações em planilhas, macros e tabelas dinâmicas.<br>
-- Segmentar dados  por filiais, categorias, produtos e períodos de tempo de uma forma simples, dinâmica e fácil de compartilhar.<br>
-- Medir a performance comparando períodos de tempo (YoY, YTD, MoM, MTD).
+- Médio desempenho dos colaboradores.<br>
+- Alta taxa de absentísmo dos colaboradores.<br>
+- Dificuldades na priorização das ações corretivas.
 <br>
 <a href="" target="_blank">Clique aqui</a> e acesse o a solução desenvolvida para o cliente.
 <br>
@@ -15,16 +15,18 @@ Principais problemas relatados pelo requisitante:<br>
 
 ## Performance dos colaboradores
 <img align="left" width="500" height="320" src="https://github.com/user-attachments/assets/cb50205f-adb9-48d8-953f-16fb777b13bc">
-Após conversa com a equipe glogal de tecnogia da informação do cliente, fomos informados de um existente data warehouse, contendo todas informações necessárias. Evitando assim a necessidade de importar dados de outras fontes como planilhas, arquivos de textos ou raspagem de dados em sistemas web.
+A performance dos colaboradores está diretamente ligada ao .
 
 Após conversa com a equipe glogal de tecnogia da informação do cliente, fomos informados de um existente data warehouse, contendo todas informações necessárias. Evitando assim a necessidade de importar dados de outras fontes como planilhas, arquivos de textos ou raspagem de dados em sistemas web.
 
 <br><br><br><br>
 
 
-## Modelo e fonte de dados 
+## Fonte de dados 
 <img align="right" width="500" height="320" src="https://github.com/user-attachments/assets/cb50205f-adb9-48d8-953f-16fb777b13bc">
-Após conversa com a equipe glogal de tecnogia da informação do cliente, fomos informados de um existente data warehouse, contendo todas informações necessárias. Evitando assim a necessidade de importar dados de outras fontes como planilhas, arquivos de textos ou raspagem de dados em sistemas web.
+A base de dados utilizada foi extraída do site da Kaggle, em formato .csv, contendo registros de uma empresa fictícia dos anos de 2006 a 2018, contemplando as seguintes informações:<br>
+- Contratações dos colaboradores ao longo dos anos;<br>
+- Demissões, cargos, base salarial, fontes de recrutamento, desempenho, níveis de satisfação e absenteísmo;<br>
 
 Após conversa com a equipe glogal de tecnogia da informação do cliente, fomos informados de um existente data warehouse, contendo todas informações necessárias. Evitando assim a necessidade de importar dados de outras fontes como planilhas, arquivos de textos ou raspagem de dados em sistemas web.
 
