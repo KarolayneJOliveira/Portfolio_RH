@@ -38,7 +38,7 @@ Após analisar as essas informações, foram identificados os principais pontos 
 
 ## Medidas
 <img align="left" width="500" height="320" src="https://github.com/KarolayneJOliveira/Portfolio_RH/blob/main/Design/Medidas.png?raw=true">
-Ao identificar a necessidade do cliente, iniciou-se o desenvolvimento das medidas utilizando a linguagem DAX, visando garantir agilidade e precisão nas análises.<br>
+Logo após identificar a necessidade do cliente, iniciou-se o desenvolvimento das medidas utilizando a linguagem DAX, visando garantir agilidade e precisão nas análises.<br>
 Principais medidas desenvolvidas:<br>
  - Quantitativo de contratações, demissões, absenteísmo, headcount/ativos e massa salarial;<br>
  - Cálculo do índice de Turnover, para avaliação do nível de rotatividade dos colaboradores;<br>
