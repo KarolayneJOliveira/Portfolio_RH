@@ -1,6 +1,6 @@
 ## Dashboard Recursos Humanos
 <img align="right" width="500" height="320" src="https://github.com/user-attachments/assets/26cf9e94-b4a0-4bb4-adda-5a7469fa00a6">
-Projeto de dashboard devolvido com Power BI para identificar os principais fatores que impactam as vendas da empresa Contoso, permitindo análises dinâmicas e de fácil compartilhamento com os responsáveis pela tomada de decisão.
+Projeto de dashboard devolvido com Power BI para identificar os principais fatores que impactam as vendas da empresa Contoso, permitindo análises dinâmicas e de fácil compartilhamento com os responsáveis pela tomada de decisão.<br>
 Principais problemas relatados pelo requisitante:<br>
 - Dificuldade de exportar os dados do sistema atual e manipular as informações em planilhas, macros e tabelas dinâmicas.<br>
 - Segmentar dados  por filiais, categorias, produtos e períodos de tempo de uma forma simples, dinâmica e fácil de compartilhar.<br>
@@ -13,7 +13,7 @@ Principais problemas relatados pelo requisitante:<br>
 
 <br><br>
 
-## Modelo e fonte de dados 
+## Performance dos colaboradores
 <img align="left" width="500" height="320" src="https://github.com/user-attachments/assets/cb50205f-adb9-48d8-953f-16fb777b13bc">
 Após conversa com a equipe glogal de tecnogia da informação do cliente, fomos informados de um existente data warehouse, contendo todas informações necessárias. Evitando assim a necessidade de importar dados de outras fontes como planilhas, arquivos de textos ou raspagem de dados em sistemas web.
 
@@ -33,12 +33,12 @@ Após conversa com a equipe glogal de tecnogia da informação do cliente, fomos
 
 ## Medidas
 <img align="left" width="500" height="320" src="https://github.com/KarolayneJOliveira/Portfolio_RH/blob/main/Design/Medidas.png?raw=true">
-Identificado a necessidade do cliente, as regras de negócio e a aplicação das mesmas no modelo de dados, iniciamos o desenvolvimento.
-Principais medidas desenvolvidas;
- - Custos, Receitas, Lucro, Entregas
- -  Medidas de inteligência temporal para comparação de performance e resultados entre períodos distintos ou cumulativos.
-Para organizar as medidas, criamos uma tabela contendo todas as medidas, sempre seguindo a padronização dos nomes.
-
+Identificado a necessidade do cliente, as regras de negócio e a aplicação das mesmas no modelo de dados, iniciamos o desenvolvimento.<br>
+Principais medidas desenvolvidas:<br>
+ - Contratações, demissões, absenteísmo, headcount/ativos e recrutamento.<br>
+ - Medidas temporais para comparação de performance e satisfação do colaborador.<br>
+ - A principal medida desenvolvida foi o Turnover ............<br>
+As medidas foram organizadas por meio de uma tabela contendo todos os cálculos, seguindo uma padronização dos nomes.
 
 <br><br><br><br><br><br>
 
