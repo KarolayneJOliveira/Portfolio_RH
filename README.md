@@ -1,7 +1,7 @@
 ## Análise da rotatividade dos colaboradores
 <img align="right" width="500" height="320" src="https://github.com/user-attachments/assets/26cf9e94-b4a0-4bb4-adda-5a7469fa00a6">
 Projeto de dashboard desenvolvido com Power BI para identificar os principais fatores da rotatividade (turnover) dos colaboradores,    .<br>
-Principais problemas relatados pelo requisitante:<br>
+Principais problemas relatados pelo cliente:<br>
 - Dificuldades na priorização das ações corretivas;<br>
 - Médio desempenho dos colaboradores;<br>
 - Alta taxa de absentísmo dos colaboradores.<br>
@@ -36,12 +36,13 @@ Após analisar essas informações foram definidos os principais pontos a serem 
 
 ## Medidas
 <img align="left" width="500" height="320" src="https://github.com/KarolayneJOliveira/Portfolio_RH/blob/main/Design/Medidas.png?raw=true">
-Identificado a necessidade do cliente, as regras de negócio e a aplicação das mesmas no modelo de dados, iniciamos o desenvolvimento.<br>
+Identificado a necessidade do cliente, iniciou o desenvolvimento das medidas através da linguagem DAX, para garantir agilidade e precisão nas análises.<br>
 Principais medidas desenvolvidas:<br>
- - Contratações, demissões, absenteísmo, headcount/ativos e massa salarial.<br>
+ - Contratações, demissões, absenteísmo, headcount/ativos e massa salarial;<br>
+ - Índice de Turnover, utilizado para avaliar o nível de rotatividade;<br>
  - Medidas para comparações de performance e satisfação do colaborador.<br>
- - A principal medida desenvolvida foi o Turnover ............<br>
-As medidas foram organizadas por meio de uma tabela contendo todos os cálculos, seguindo uma padronização dos nomes.
+ 
+As medidas desenvolvidas apresentaram resultados satisfatórios que auxiliaram nas tomadas de decisões, trazendo recomendações valiosas para a constante melhoria da empresa.
 
 <br><br><br><br><br>
 
