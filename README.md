@@ -32,7 +32,7 @@ A base de dados utilizada foi extraída do site da Kaggle, em formato .csv, cont
 
 Após analisar as essas informações, foram identificados os principais pontos a serem abordados e definida as métricas e medidas necessárias para solucionar os problemas relatados pelo cliente. 
 
-<br>
+<br><br>
 
 ## Medidas
 <img align="left" width="500" height="320" src="https://github.com/KarolayneJOliveira/Portfolio_RH/blob/main/Design/Medidas.png?raw=true">
