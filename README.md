@@ -14,13 +14,14 @@ Principais problemas relatados pelo cliente:<br>
 
 ## Performance dos colaboradores
 <img align="left" width="500" height="320" src="https://github.com/user-attachments/assets/cb50205f-adb9-48d8-953f-16fb777b13bc">
-Na segunda parte apresenta    <br>
-O recrutamento  <br>
-A performance dos colaboradores está diretamente ligada ao .....   <br>
-A satisfação dos colaboradores         <br>
-O absenteísmo     <br> 
+A segunda parte do projeto apresenta a análise da performance dos colaboradores, abordando os seguintes tópicos:<br>
+- Tipos de recrutamento adotados;<br>
+- Avaliação de performance realizada pelos diretores de cada setor;<br>
+- Grau de satisfação dos colaboradores em relação à empresa;<br>
+- Taxa de absenteísmo por setor, com comparação entre colaboradores ativos e desligados.<br> 
+Estes tópicos foram necessários para identificar se o alto índice do turnover estão ligados a insatisfação dos colaboradores.
 
-<br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br>
 
 ## Fonte de dados 
 <img align="right" width="500" height="320" src="https://github.com/KarolayneJOliveira/Portfolio_RH/blob/main/Design/Base%20de%20dados%20Excel.png?raw=true">
