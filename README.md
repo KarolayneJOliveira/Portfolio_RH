@@ -21,7 +21,7 @@ A segunda parte do projeto apresenta a análise da performance dos colaboradores
 - Taxa de absenteísmo por setor, com comparação entre colaboradores ativos e desligados.<br> 
 Estes tópicos foram necessários para identificar se o alto índice do turnover estão ligados a insatisfação dos colaboradores.
 
-<br><br><br><br><br><br>
+<br><br><br><br>
 
 ## Fonte de dados 
 <img align="right" width="500" height="320" src="https://github.com/KarolayneJOliveira/Portfolio_RH/blob/main/Design/Base%20de%20dados%20Excel.png?raw=true">
@@ -32,7 +32,7 @@ A base de dados utilizada foi extraída do site da Kaggle, em formato .csv, cont
 
 Após analisar as essas informações, foram identificados os principais pontos a serem abordados e definida as métricas e medidas necessárias para solucionar os problemas relatados pelo cliente. 
 
-<br><br>
+<br>
 
 ## Medidas
 <img align="left" width="500" height="320" src="https://github.com/KarolayneJOliveira/Portfolio_RH/blob/main/Design/Medidas.png?raw=true">
